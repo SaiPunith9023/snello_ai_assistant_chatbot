@@ -2,4 +2,4 @@ langchain
 langchain-google-genai
 python-dotenv
 langchain-community
-gradi
+gradio
